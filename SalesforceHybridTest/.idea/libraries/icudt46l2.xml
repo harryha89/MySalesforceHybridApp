@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="icudt46l2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/com.salesforce/src/android/libs/SmartSync/assets/icudt46l.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

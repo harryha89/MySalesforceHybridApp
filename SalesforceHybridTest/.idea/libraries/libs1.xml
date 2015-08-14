@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="libs1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/com.salesforce/src/android/libs/SalesforceSDK/libs/httpmime-4.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/com.salesforce/src/android/libs/SalesforceSDK/libs/volley_android-4.4.2_r2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/com.salesforce/src/android/libs/SalesforceSDK/libs/guava-18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/com.salesforce/src/android/libs/SalesforceSDK/libs/android-junit-report-1.5.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/com.salesforce/src/android/libs/SalesforceSDK/libs/apache-mime4j-0.7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

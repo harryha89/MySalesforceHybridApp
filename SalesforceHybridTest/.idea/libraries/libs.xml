@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/com.salesforce/src/android/libs/SmartStore/libs/sqlcipher.jar!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/com.salesforce/src/android/libs/SmartStore/libs/sqlcipher-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
